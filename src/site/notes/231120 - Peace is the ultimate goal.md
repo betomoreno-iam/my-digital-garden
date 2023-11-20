@@ -3,11 +3,8 @@
 ---
 
 # On Discipline
-
 Be careful with prolong sitting. I'm reminded that sitting is a killer.
-
 I'm reminded that our current environment does not help our biology.
 
 # On Management
-
-In Product Management there is the
+## Outputs vs Outcomes
